@@ -5,9 +5,9 @@ The code repository for our Learn Python series on [YouTube](https://www.youtube
 
 ## Lessons
 
-|Lesson|Code|YouTube Video|
-|-------------------------------|------|---------------|
-| Get Started with Python|[Code]|[YouTube](https://youtu.be/TDA9lgIFMGQ)|
+| #  | Lesson                     | Code | YouTube Video                              |
+|----|----------------------------|------|--------------------------------------------|
+| 1  | Get Started with Python     | [Code] | [YouTube](https://youtu.be/TDA9lgIFMGQ)    |
 
 ## Keep in Touch
 
