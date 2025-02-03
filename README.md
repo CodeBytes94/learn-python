@@ -7,7 +7,7 @@ The code repository for our Learn Python series on [YouTube](https://www.youtube
 
 | #  | Lesson                     | Code | YouTube Video                              |
 |----|----------------------------|------|--------------------------------------------|
-| 1  | Get Started with Python     | [Code] | [YouTube](https://youtu.be/TDA9lgIFMGQ)    |
+|1|Get Started with Python|[View](https://github.com/CodeBytes94/learn-python/blob/main/01-getting-started-with-python.py)|[Watch](https://youtu.be/TDA9lgIFMGQ)|
 
 ## Keep in Touch
 
