@@ -9,6 +9,7 @@ The code repository for our Learn Python series on [YouTube](https://www.youtube
 |----|----------------------------|------|--------------------------------------------|
 |1|Get Started with Python|[View](https://github.com/CodeBytes94/learn-python/tree/main/01-getting-started-with-python)|[Watch](https://youtu.be/TDA9lgIFMGQ)|
 |2|Python Syntax, Variables & Data Types |[View](https://github.com/CodeBytes94/learn-python/tree/main/02-syntax-variables-data-types)|[Watch](https://www.youtube.com/watch?v=rkwh7hZaGNY&t=4s&ab_channel=CodeBytes)
+|3|Python Data Types: How to Use and Manipulate Strings|[View](https://github.com/CodeBytes94/learn-python/tree/main/03-python-data-type-strings)|[Watch](https://youtu.be/MOC2wIOa-ic)
 
 ## Keep in Touch
 
